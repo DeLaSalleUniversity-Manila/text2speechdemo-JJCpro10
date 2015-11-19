@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TexttoSpeechDemo</string>
+    <string-array name="mylistitems">
+        <item>A is for Apple</item>
+        <item>B is for Boy</item>
+        <item>C is for Cat</item>
+        <item>D is for Dog</item>
+        <item>E is for East</item>
+        <item>F is for Five</item>
+        <item>G is for Goat</item>
+        <item>H is for House</item>
+        <item>I is for Ice cream</item>
+        <item>J is for July</item>
+        <item>K is for King</item>
+        <item>L is for Lemon</item>
+        <item>M is for Money</item>
+        <item>N is for Number</item>
+        <item>O is for Open</item>
+        <item>P is for People</item>
+        <item>Q is for Queen</item>
+        <item>R is for Red</item>
+        <item>S is for Summer</item>
+        <item>T is for Time</item>
+        <item>U is for Uniform</item>
+        <item>V is for Visa</item>
+        <item>W is for Woman</item>
+        <item>X is for X-ray</item>
+        <item>Y is for Yellow</item>
+        <item>Z is for Zebra</item>
+    </string-array>
+</resources>
